@@ -5,7 +5,7 @@ This project is an implementation of John Conway's Game of Life using the Simple
 Visual Studio
 CMake
 SDL2
-downdload SDL2. If you are using visual studio as your code editor make sure you download the correct zip i.e(SDL2-devel-x.xx.x-VC.zip).
+downdload SDL2.
 
 # Installation
 Install Visual Studio from the official website.
